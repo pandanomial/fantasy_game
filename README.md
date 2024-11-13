@@ -3,7 +3,7 @@ A fantasy role-playing game: there are four different types of creatures: humans
 
 The Creature class is the base class. The classes Demon, Elf, and Human are derived from Creature.
 
-Balrog inherits from Demon, and Demon inherits from Creature.
+The classes Cyberdemon and Balrog are derived from Demon and Demon inherits from Creature.
 
 Make the Creature class's getSpecies() function a pure virtual function, so that every class that is derived from the Creature class will be required to implement a getSpecies() function.
 
