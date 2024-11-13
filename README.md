@@ -1,5 +1,5 @@
 # fantasy_game
-A fantasy role-playing game: there are four different types of creatures: humans, cyberdemons, balrogs, and elves. 
+A fantasy role-playing game (inheritance): there are four different types of creatures: humans, cyberdemons, balrogs, and elves. 
 
 The Creature class is the base class. The classes Demon, Elf, and Human are derived from Creature.
 
